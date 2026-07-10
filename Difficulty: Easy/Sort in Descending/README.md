@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/sort-in-descending--141631/1?page=1&category=CPP&status=unsolved&sortBy=submissions">Sort in Descending</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong> of integers, sort the array in <strong>descending</strong> order, driver code will print arr to verify the solution.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr = [324, 5, 2, 2]</span><span style="font-size: 18px;">
+<strong>Output: </strong>324 5 2 2</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr = [54, 43, 2, 1, 5]</span><span style="font-size: 18px;">
+<strong>Output: </strong>54 43 5 2 1</span></pre>
+<p><strong><span style="font-size: 18px;">Constraints:<br></span></strong><span style="font-size: 18px;">1 ≤ |arr| ≤ 10<sup>3</sup><br>0&nbsp;</span><span style="font-size: 18px;">≤ arr[i]&nbsp;</span><span style="font-size: 18px;">≤ 10<sup>3</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;
