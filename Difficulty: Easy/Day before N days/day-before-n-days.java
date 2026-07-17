@@ -1,9 +1,7 @@
 class Solution {
-	public static int nthDay(int d, int n) {
-		// write your code here
-		
-		n %= 7;
-		return (d - n + 7) % 7;
-		
-	}
+    public int dayBefore(int d, int n) {
+        // code here
+         return (d - (n % 7) + 7) % 7;
+        
+    }
 }
