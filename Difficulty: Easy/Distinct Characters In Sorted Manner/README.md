@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/print-different-characters-in-sorted-manner/1?page=1&category=Java&status=unsolved&sortBy=submissions">Distinct Characters In Sorted Manner</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given a string <strong>s</strong>, return a string containing all distinct characters from s in non-decreasing order.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>s = "abdbc"</span>
+<span style="font-size: 18px;"><strong>Output: "</strong>abcd"<br><strong>Explanation: </strong>The distinct characters in s are 'a', 'b', 'd', and 'c'. When sorted, they form "abcd".</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>s = "fdfdfd"</span>
+<span style="font-size: 18px;"><strong>Output: "</strong>df"<br><strong>Explanation:<span style="font-size: 14pt;"> </span></strong></span><span style="font-size: 14pt;">The distinct characters in s are 'f' and 'd'. When sorted, they form "df".</span></pre>
+<p><strong><span style="font-size: 18px;"></span></strong></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Java</code>&nbsp;<code>STL</code>&nbsp;<code>Java-Collections</code>&nbsp;
